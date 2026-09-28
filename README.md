@@ -54,11 +54,11 @@ A neon-themed memory card game built for College Tech Fest 2025.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedHissamKazmi&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=SyedHissamKazmi&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHissamKazmi&layout=compact&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=SyedHissamKazmi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
