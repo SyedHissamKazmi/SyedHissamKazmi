@@ -1,67 +1,62 @@
 <div align="center">
-  <h2>🚀 Check out my live AI Projects & Portfolio</h2>
   <a href="https://syedhissamkazmi.github.io">
-    <img src="https://img.shields.io/badge/View_Portfolio-080b12?style=for-the-badge&logo=vercel&logoColor=white&color=7c6cff" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/View_Interactive_Portfolio-080B12?style=for-the-badge&logo=github&logoColor=white&color=7c6cff" alt="View Portfolio" />
   </a>
 </div>
 
 # Hi, I'm Syed Hissam Kazmi 👋
 
-### Aspiring AI/ML Engineer · Building production-ready AI applications
-
-I design and ship end-to-end machine learning systems — from data pipelines and model training to deployment with Docker and CI/CD.
+### AI/ML Developer & Automation Engineer · Shipping Production-Ready Systems
+I build, test, and containerize data Pipelines, ML algorithms, and server interfaces. I believe in writing modular code, automated pipelines, and highly performant integrations—*Building systems, not just scripts.*
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Production Projects
 
 ### 🖼️ [AI Image Authenticity Detector](https://github.com/SyedHissamKazmi/ai-image-detector)
-Full-stack AI/ML app that detects AI-generated images using a two-model ensemble.
+A high-accuracy, full-stack detector combining multiple vision transformers (SigLIP + CLIP ViT) into an async ensemble system.
 
-**Highlights:** Async inference · Per-model transparency · Evaluation & tuning · Docker · CI/CD  
-**Tech:** Python · FastAPI · PyTorch · Hugging Face · Streamlit  
-🔗 **[Live Demo](https://syedhissamkazmi-ai-image-detector.streamlit.app)**
+*   **Impact:** Analyzes and generates an ensemble authenticity probability in **under [X] seconds**.
+*   **Engineering:** Async PyTorch inference, cached resource loading, image validation filters, custom classification thresholds.
+*   **Infrastructure:** Full containerization with **Docker** and continuous integration testing using **GitHub Actions**.
+*   **Tech:** `Python` · `FastAPI` · `PyTorch` · `Hugging Face` · `Streamlit` · `Docker` · `CI/CD`
+*   🔗 **[Try the Live Demo](https://syedhissamkazmi-ai-image-detector.streamlit.app)**
 
 ---
 
 ### 🕸️ [Web Scraper Studio](https://github.com/SyedHissamKazmi/web-scraper-studio)
-Modern Streamlit web app to extract headings, links, SEO metadata, contacts, and keywords from any webpage.
+A modern, modular data extraction application designed for resilient webpage scraping and SEO audit extraction.
 
-**Highlights:** robots.txt compliance · Retry logic · Batch mode · Excel/CSV/JSON export · Docker · CI  
-**Tech:** Python · Streamlit · Requests · lxml · Pandas  
-🔗 **[Live Demo](https://syedhissamkazmi-web-scraper-studio.streamlit.app)**
+*   **Impact:** Boosted processing speeds by up to **[X]%** using lightweight, asynchronous structural parsing via `lxml`.
+*   **Engineering:** Configurable retry mechanisms, parsing selectors (SEO headers, keyword patterns, assets), and compliance verification with `robots.txt` algorithms.
+*   **Outputs:** On-demand exports to excel, CSV, or JSON payloads via `Pandas`.
+*   **Tech:** `Python` · `Streamlit` · `Requests` · `lxml` · `Pandas` · `Docker`
+*   🔗 **[Try the Live Demo](https://syedhissamkazmi-web-scraper-studio.streamlit.app)**
 
 ---
 
 ### 🎮 [Memory Matrix](https://github.com/SyedHissamKazmi/Memory_matrix)
-A neon-themed memory card game built for College Tech Fest 2025.
+A high-performance memory-card browser game engineered with vanilla scripts for Lahore College Tech Fest.
 
-**Highlights:** Multiple difficulty levels · Timer · Sound effects · Mobile responsive  
-**Tech:** HTML · CSS · JavaScript  
-🔗 **[Live Demo](https://syed-hissam-kazmi-memory-matrix.static.hf.space)**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-`Python` `JavaScript` `HTML` `CSS` `SQL`
-
-**AI / ML**  
-`PyTorch` `Hugging Face` `Transformers` `scikit-learn` `Pandas`
-
-**Backend**  
-`FastAPI` `Streamlit` `REST APIs`
-
-**DevOps**  
-`Docker` `GitHub Actions` `CI/CD`
-
-**Cloud & Hosting**  
-`Streamlit Cloud` `Hugging Face Spaces` `Google Cloud` (learning)
+*   **Interactive System:** Responsive grid logic, custom difficulty scaling, session-timer mechanisms, high score storage, and multimedia interfaces.
+*   **Tech:** `HTML5` · `CSS3` · `JavaScript` · `Hugging Face Spaces`
+*   🔗 **[Interactive Play Demo](https://syed-hissam-kazmi-memory-matrix.static.hf.space)**
 
 ---
 
-## 📊 GitHub Activity
+## 🛠️ Unified Core Tech Stack
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python` (Expertise), `JavaScript`, `HTML5`, `CSS3`, `SQL` |
+| **AI & Machine Learning** | `PyTorch`, `Hugging Face Transformers`, `scikit-learn`, `Pandas`, `NumPy` |
+| **API & Web Engines** | `FastAPI`, `Streamlit`, `Asynchronous Routing`, `Web Scraping` (`lxml`, `Requests`) |
+| **DevOps & Workflows** | `Docker`, `GitHub Actions` (CI/CD workflows), `Git` (VCS), Linux commands |
+| **Deployment / Environments** | `Streamlit Cloud`, `Hugging Face Spaces`, `Virtualenvs`, local registry setups |
+
+---
+
+## 📊 Performance & Contribution Overview
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SyedHissamKazmi&theme=tokyonight&hide_border=true)
 
@@ -69,22 +64,17 @@ A neon-themed memory card game built for College Tech Fest 2025.
 
 ---
 
-## 🌱 Currently Learning
-
-- Production ML and MLOps
-- LLM engineering (RAG, embeddings, vector databases)
-- Google Cloud and Vertex AI
-- Building AI products from scratch
+## 🚀 Actively Exploring & Mastering
+*   **MLOps Systems:** Continuous model monitoring, evaluation pipelines, and hardware optimization.
+*   **Advanced AI Engineering:** RAG architectures, local deployment of LLMs, vector database schemas (FAISS/ChromaDB).
+*   **Infrastructure Strategy:** Google Cloud Services (Vertex AI, Docker Cloud Deployment workflows).
 
 ---
 
-## 📫 Let's Connect
-
-- **GitHub:** [@SyedHissamKazmi](https://github.com/SyedHissamKazmi)
-- **LinkedIn:** [Syed Hissam Kazmi](https://www.linkedin.com/in/syed-hissam-kazmi)
-- **AI Demo:** [AI Image Detector](https://syedhissamkazmi-ai-image-detector.streamlit.app)
-- **Scraper Tool:** [Web Scraper Studio](https://syedhissamkazmi-web-scraper-studio.streamlit.app)
+## ✉️ Let's Connect & Collaborate
+*   💼 **LinkedIn:** [/in/syed-hissam-kazmi](https://www.linkedin.com/in/syed-hissam-kazmi)
+*   🌐 **Interactive Portfolio:** [syedhissamkazmi.github.io](https://syedhissamkazmi.github.io)
+*   📧 **Direct Contact:** Reached directly through my linkedin page or standard git emails.
 
 ---
-
 *"Build systems, not just scripts."*
