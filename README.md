@@ -1,3 +1,10 @@
+<div align="center">
+  <h2>🚀 Check out my live AI Projects & Portfolio</h2>
+  <a href="https://syedhissamkazmi.github.io">
+    <img src="https://img.shields.io/badge/View_Portfolio-080b12?style=for-the-badge&logo=vercel&logoColor=white&color=7c6cff" alt="Portfolio Website" />
+  </a>
+</div>
+
 # Hi, I'm Syed Hissam Kazmi 👋
 
 ### Aspiring AI/ML Engineer · Building production-ready AI applications
