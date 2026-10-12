@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://syedhissamkazmi.github.io">
-    <img src="https://img.shields.io/badge/View_Interactive_Portfolio-080B12?style=for-the-badge&logo=github&logoColor=white&color=7c6cff" alt="View Portfolio" />
+  <a href="https://syed-hissam-kazmi-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/View_Interactive_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio on Vercel" />
   </a>
 </div>
 
