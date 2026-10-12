@@ -73,7 +73,7 @@ A high-performance memory-card browser game engineered with vanilla scripts for 
 
 ## ✉️ Let's Connect & Collaborate
 *   💼 **LinkedIn:** [/in/syed-hissam-kazmi](https://www.linkedin.com/in/syed-hissam-kazmi)
-*   🌐 **Interactive Portfolio:** [syedhissamkazmi.github.io](https://syedhissamkazmi.github.io)
+*   🌐 **Interactive Portfolio:** [syed-hissam-kazmi-portfolio.vercel.app](https://syed-hissam-kazmi-portfolio.vercel.app/)
 *   📧 **Direct Contact:** Reached directly through my linkedin page or standard git emails.
 
 ---
