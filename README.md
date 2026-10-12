@@ -74,6 +74,10 @@ A high-performance memory-card browser game engineered with vanilla scripts for 
 ## ✉️ Let's Connect & Collaborate
 *   💼 **LinkedIn:** [/in/syed-hissam-kazmi](https://www.linkedin.com/in/syed-hissam-kazmi)
 *   🌐 **Interactive Portfolio:** [syed-hissam-kazmi-portfolio.vercel.app](https://syed-hissam-kazmi-portfolio.vercel.app/)
+*   📲<a href="https://wa.me/923000000000" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
 *   📧 **Direct Contact:** Reached directly through my linkedin page or standard git emails.
 
 ---
